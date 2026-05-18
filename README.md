@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Deepak+Kumar;Full+Stack+Web+Developer;Backend+Developer;Java+%7C+MERN+Stack+Enthusiast" />
 </h1>
 
-<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
+<h3 align="center">Passionate Full Stack Developer</h3>
 
 <br/>
 
