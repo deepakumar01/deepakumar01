@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepakumar01.deepakumar01" />
-
 <h1 align="center">
   Hi 👋, I'm Deepak Kumar
 </h1>
