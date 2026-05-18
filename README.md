@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepakumar01.deepakumar01" />
 
-<h1 align="left">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Deepak+Kumar;Full+Stack+Web+Developer;Teach+Enthusiast" />
 </h1>
 
@@ -25,7 +25,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
-  <a href="mailto:2081deepakkumar@gmail.com">
+  <a href="mailto:deepakumar00008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
