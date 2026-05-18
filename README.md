@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepakumar01.deepakumar01" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Deepak+Kumar;Full+Stack+Web+Developer;Teach+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Deepak+Kumar;Full+Stack+Web+Developer;Tech+Enthusiast" />
 </h1>
 
 <h3 align="center">Passionate Full Stack Developer</h3>
